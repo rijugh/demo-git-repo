@@ -1,3 +1,3 @@
 # LISCENSE
 
-## Apache 2.0
+## Apache 1.0
